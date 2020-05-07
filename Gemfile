@@ -62,3 +62,7 @@ gem 'font-awesome-sass', '~> 5.12.0'
 gem 'simple_form'
 
 gem 'devise'
+
+gem 'auto_html', '~>1.6.4'
+
+gem 'rubocop', '<= 0.64.0'
